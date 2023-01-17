@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "824542876953",
+    "project_id": "beatthebeat-1635143775147",
+    "storage_bucket": "beatthebeat-1635143775147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824542876953:android:ada58a5ee1085550f02188",
+        "android_client_info": {
+          "package_name": "com.BePex.beatthebeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824542876953-5rtt0784ija0vv29bmm6312pte96j6st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfnvJEz4GgnE6OD1Uwd0yFtkjA-NPG6u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824542876953-5rtt0784ija0vv29bmm6312pte96j6st.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "824542876953-dapqdlc05rpchs7rddr60vm4s4226fr9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.BePex.BeatTheBeat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

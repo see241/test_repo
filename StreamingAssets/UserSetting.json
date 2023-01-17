@@ -1,0 +1,17 @@
+{
+    "LineOption": 1,
+    "Vibration": true,
+    "VibrationPower":1.0,
+    "SoundLerp": false,
+    "BgmVolume": 0.0,
+    "SfxVolume": 0.0,
+    "ToggleBgm": true,
+    "ToggleSfx": true,
+    "isTutorialFinish": false,
+    "offset": 0.0001,
+    "BackgroundTransparents":0.40001,
+    "AntiAliasing":-2,
+    "Resolution":1.0,
+    "cameraShaking":true,
+    "cameraOffset":-1
+}
